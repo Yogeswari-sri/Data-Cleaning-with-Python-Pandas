@@ -58,11 +58,6 @@ Recruiter‑friendly dashboards with accurate insights.
 
 Portfolio project showcasing data cleaning, transformation, and visualization skills.
 
-📷 Before vs After Dashboards
-
-| Before Cleaning | After Cleaning |
-| --- | --- |
-| ``https://via.placeholder.com/400x250?text=Before+Cleaning`` | ``https://via.placeholder.com/400x250?text=After+Cleaning`` |
 
 🚀 Next Steps
 Extend cleaning pipeline to other HR/Finance datasets.
